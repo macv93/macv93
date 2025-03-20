@@ -26,8 +26,8 @@ I'm fluent in:
 
 ## Let's Connect
 
-* [LinkedIn](your_linkedin_url](https://www.linkedin.com/in/manuel-canarte/))
-* [macv93]((https://macv93.github.io/))
+* [LinkedIn](https://www.linkedin.com/in/manuel-canarte/)
+* [macv93](https://macv93.github.io/)
 * [manuel.canarte@gmail.com](manuel.canarte@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to contact me if you have any questions or collaboration opportunities.
