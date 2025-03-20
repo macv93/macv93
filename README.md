@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! 👋 I'm a Full Stack Developer
 
-<!--
-**macv93/macv93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate full stack developer with a strong interest in building scalable and efficient web applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in:
+
+* **Frontend:** React, TypeScript ⚛️
+* **Backend:** PHP, Node.js, Python, building both monolithic applications and microservices 🏗️
+* **Databases:** Proficient in working with both relational (e.g., PostgreSQL, MySQL) and non-relational (e.g., MongoDB, DynamoDB) databases 💾
+* **Cloud:** Experience with AWS services ☁️
+
+
+## Looking for Opportunities
+
+I'm currently looking for new opportunities to contribute my skills and grow as a developer. If you're looking for a motivated and versatile full stack developer, please feel free to reach out!
+
+## Languages
+
+I'm fluent in:
+
+* English 🇬🇧
+* French 🇫🇷
+* Spanish 🇪🇸
+
+## Let's Connect
+
+* [LinkedIn](your_linkedin_url](https://www.linkedin.com/in/manuel-canarte/))
+* [macv93]((https://macv93.github.io/))
+* [manuel.canarte@gmail.com](manuel.canarte@gmail.com)
+
+Feel free to explore my repositories and don't hesitate to contact me if you have any questions or collaboration opportunities.
+
+Thanks for visiting!
