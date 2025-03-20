@@ -11,6 +11,7 @@ I specialize in:
 * **Databases:** Proficient in working with both relational (e.g., PostgreSQL, MySQL) and non-relational (e.g., MongoDB, DynamoDB) databases 💾
 * **Cloud:** Experience with AWS services ☁️
 
+I have experience working at both product companies and a web consultancy, allowing me to adapt to diverse project requirements and team dynamics.
 
 ## Looking for Opportunities
 
@@ -28,7 +29,7 @@ I'm fluent in:
 
 * [LinkedIn](https://www.linkedin.com/in/manuel-canarte/)
 * [macv93](https://macv93.github.io/)
-* [manuel.canarte@gmail.com](manuel.canarte@gmail.com)
+* [manuel.canarte@gmail.com](mailto:manuel.canarte@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to contact me if you have any questions or collaboration opportunities.
 
